@@ -1,0 +1,4 @@
+export const SEND_REQUEST = 'SEND_REQUEST';
+export const REQUEST_SUCCESS = 'REQUEST_SUCCESS';
+export const CONNECTION = 'CONNECTION';
+
